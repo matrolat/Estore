@@ -68,7 +68,7 @@ nav ul li a:hover{
 .slider{ 
     width: 80vw;
     margin: 12px auto;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .card{
