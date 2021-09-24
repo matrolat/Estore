@@ -79,7 +79,7 @@ nav ul li a:hover{
 
 .cards{
     display: flex; 
-    overflow: hidden;
+    overflow: auto;
 }
 
 .card-item{
